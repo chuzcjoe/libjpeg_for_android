@@ -1,0 +1,3 @@
+/Users/zongchengchu/Documents/repos/libjpeg_demo/build/CMakeFiles/MyTurboJPEGProject.dir
+/Users/zongchengchu/Documents/repos/libjpeg_demo/build/CMakeFiles/edit_cache.dir
+/Users/zongchengchu/Documents/repos/libjpeg_demo/build/CMakeFiles/rebuild_cache.dir
